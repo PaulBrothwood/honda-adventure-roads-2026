@@ -1,6 +1,6 @@
 # Paul Brothwood | Honda Adventure Roads 2026
 
-![Paul Brothwood riding the Honda Transalp during Honda Adventure Roads 2026](https://github.com/PaulBrothwood/honda-adventure-roads-2026/raw/main/paul-brothwood-honda-transalp-adventure-roads-2026%20(1).JPEG)
+![Paul Brothwood riding the Honda Transalp during Honda Adventure Roads 2026](https://github.com/PaulBrothwood/paul-brothwood-honda-adventure-roads-2026/raw/main/paul-brothwood-honda-transalp-adventure-roads-2026%20(1).JPEG)
 
 *Paul Brothwood riding the Honda XL750 Transalp during Honda Adventure Roads 2026 in the Pyrenees, Spain and France.*
 
