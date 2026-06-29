@@ -30,7 +30,9 @@ This repository contains my photographs, articles and experiences from the event
 
 ### Team Spirit
 
-(Add your favourite group photo here)
+![Honda Adventure Roads Team Spirit](https://raw.githubusercontent.com/PaulBrothwood/honda-adventure-roads-2026/main/paul-brothwood-honda-adventure-roads-2026-hub_.jpg)
+
+One of the biggest surprises of Honda Adventure Roads 2026 wasn't the terrain, it was the people. Thirty riders from different backgrounds came together to support each other through every challenge. From helping each other over technical sections to sharing plenty of laughs at the end of each day, the team spirit made this adventure unforgettable.
 
 ### The Finish
 
