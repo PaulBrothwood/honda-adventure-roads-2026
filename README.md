@@ -18,9 +18,9 @@ This repository contains my photographs, articles and experiences from the event
 
 ### Riding the Honda Transalp
 
-![Honda Transalp](https://raw.githubusercontent.com/PaulBrothwood/honda-adventure-roads-2026/main/paul-brothwood-honda-transalp-adventure-roads-2026%20(1).JPEG)
+![Honda Transalp](https://raw.githubusercontent.com/PaulBrothwood/honda-adventure-roads-2026/main/paul-brothwood-honda-transalp-adventure-roads-2026.jpeg)
 
-The Honda XL750 Transalp proved to be the perfect motorcycle for Honda Adventure Roads 2026. Whether climbing rocky trails, crossing mountain passes or covering long distances on the road, it inspired confidence throughout the journey. It is easy to understand why Honda selected the Transalp for this event, combining comfort, capability and versatility in one adventure motorcycle. :contentReference[oaicite:0]{index=0}
+The Honda XL750 Transalp proved to be the ideal motorcycle for Honda Adventure Roads 2026, combining comfort on the road with confidence on technical off-road terrain.
 
 ### Meeting Tosha Schareina
 
