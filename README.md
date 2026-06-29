@@ -26,7 +26,9 @@ The Honda XL750 Transalp proved to be the ideal motorcycle for Honda Adventure R
 
 ### Meeting Tosha Schareina
 
-(Add your photo with Tosha here)
+![Meeting Tosha Schareina](https://raw.githubusercontent.com/PaulBrothwood/honda-adventure-roads-2026/main/paul-brothwood-pyrenees-honda-adventure-roads-2026%20%282%29.JPEG)
+
+Meeting Dakar Rally star Tosha Schareina was one of the highlights of Honda Adventure Roads 2026. Watching his smooth bike control, technical riding and calm approach to difficult terrain showed why he is one of Honda HRC's leading rally riders. Riding alongside him in the Pyrenees was an unforgettable experience. :contentReference[oaicite:0]{index=0}
 
 ### Learning from Kirian Mirabet
 
