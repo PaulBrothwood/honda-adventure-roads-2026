@@ -8,9 +8,11 @@ This repository contains my photographs, articles and experiences from the event
 
 ## The Journey
 
-### Training
+### Into the Pyrenees
 
-(Add your training camp photo here)
+![Paul Brothwood in the Pyrenees](https://raw.githubusercontent.com/PaulBrothwood/honda-adventure-roads-2026/main/paul-brothwood-pyrenees-honda-adventure-roads-2026%20%281%29.JPEG)
+
+Standing high in the Pyrenees during Honda Adventure Roads 2026. The scenery was spectacular, but the real challenge lay beyond the viewpoints, tackling rocky climbs, mountain tracks and remote routes that most riders never get to experience.
 
 ### Into the Pyrenees
 
